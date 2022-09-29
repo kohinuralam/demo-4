@@ -1,0 +1,241 @@
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+	.top-bar {
+		padding: 0 0 15px 0;
+	}
+
+	.submit-button a {
+		margin: 20px 0 0 0;
+	}
+
+	.social-icon ul {
+		margin: 10px 0 0 0;
+	}
+
+	.language-bar .btn::after {
+		right: -18px;
+	}
+
+	.main-nav ul li {
+	  	padding-right: 15px;
+	}
+
+	.main-nav ul li a {
+		font-size: 14px;
+	}
+
+	.wellcome-item h2 {
+		font-size: 17px;
+	}
+
+	.about-title h2 br {
+		display: none;
+	}
+
+	.recent-content {
+		padding: 0 20px;
+	}
+
+	.recent-service {
+		padding: 0 20px;
+	}
+
+	.propertis-content h2 {
+		font-size: 16px;
+	}
+
+	.propertis-number {
+		width: 50px;
+		height: 50px;
+		line-height: 50px;
+		left: 10px;
+	}
+
+	.item-1-pg p {
+		margin: 30px 0 0 0;
+	}	
+}
+
+/*for-tablet-start*/
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+	.top-bar {
+		padding: 0 0 10px 0;
+		display: none;
+	}
+
+	.submit-button a {
+		margin: 20px 0 0 0;
+	}
+
+	.social-icon ul {
+		margin: 50px 0 0 0;
+	}
+
+	.menu-btn {
+		display: block;
+	}
+
+	.navigation-bar {
+		display: none;
+	}
+
+	.searchToggler {
+		display: none;
+	}
+
+	.service-item-img {
+		width: 20%;
+	}
+
+	.service-item-content {
+		width: 80%;
+	}
+
+	.about-title h2 br {
+		display: none;
+	}
+
+	.recent-item h3 {
+		font-size: 16px;
+	}
+
+	.propertis-number {
+		width: 50px;
+		height: 50px;
+		line-height: 50px;
+		left: 10px;
+	}
+
+	.footer-logo {
+		margin: 35px 0 0 0;
+	}
+
+	.footer-item h2 {
+		margin: 54px 0 20px 0;
+	}		
+}
+
+/*for-mobil-start*/
+
+@media screen and (max-width: 767px) {
+
+	.top-bar {
+		padding: 0 0 10px 0;
+		display: none;
+	}
+
+	.navigation-bar {
+		display: none;
+	}
+
+	.submit-button a {
+		margin-left: 0;
+	}
+
+	.menu-icon i {
+		display: block;
+	}
+
+	.menu-btn {
+		display: block;
+	}
+
+	.searchToggler {
+		display: none;
+	}
+
+	.hero-area {
+		padding: 1px 0 40px 0;
+	}
+
+	.wellcome-area {
+		padding: 1px 0 45px 0;
+	}
+
+	.wellcome-title h2 {
+		font-size: 19px;
+		margin: 40px 0 0 0;
+	}
+
+	.service-area {
+		padding: 1px 0 20px 0;
+	}
+
+	.service-item-img {
+		width: 20%;
+	}
+
+	.service-item-content {
+		width: 80%;
+	}
+
+	.service-title h2 {
+		font-size: 33px;
+		margin: 38px 0 0 0;
+	}
+
+	#ser-manage {
+		margin: 51px 0 0 0;
+	}
+
+	#ser-hotel {
+		margin: 52px 0 0 0;
+	}
+
+	.about-area {
+		padding: 1px 0 45px 0;
+	}
+
+	.about-title h2 {
+		margin: 43px 0 0 0;
+	}
+
+	.about-title h2 br {
+		display: none;
+	}
+
+	.recent-area {
+		padding: 1px 0 40px 0;
+	}
+
+	.recent-title h2 {
+		margin: 40px 0 0 0;
+	}
+
+	.recent-item h3 {
+		font-size: 16px;
+	}
+
+	.propertis-area {
+		padding: 1px 0 40px 0;
+	}
+
+	.propertis-number {
+		width: 50px;
+		height: 50px;
+		line-height: 50px;
+		left: 10px;
+	}
+
+	.footer-logo {
+		margin: 35px 0 0 0;
+	}
+
+	.footer-item h2 {
+		margin: 40px 0 20px 0;
+	}
+
+	.copy-content p {
+		text-align: center;
+		}
+
+	.footer-menu ul {
+		justify-content: center;
+		margin: 15px 0 0 0;
+	}		
+}
+
+	
+		         
